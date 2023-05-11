@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\MYFOLDER\\RUPPIN\\ProjectGit\\server\\picAplant server 8.5.23\\picAplant\\picAplant.csproj": {}
+    "C:\\MYFOLDER\\RUPPIN\\ProjectGit\\serverGit\\Cgroup41_Server\\picAplant server 8.5.23\\picAplant\\picAplant.csproj": {}
   },
   "projects": {
-    "C:\\MYFOLDER\\RUPPIN\\ProjectGit\\server\\picAplant server 8.5.23\\picAplant\\picAplant.csproj": {
+    "C:\\MYFOLDER\\RUPPIN\\ProjectGit\\serverGit\\Cgroup41_Server\\picAplant server 8.5.23\\picAplant\\picAplant.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\MYFOLDER\\RUPPIN\\ProjectGit\\server\\picAplant server 8.5.23\\picAplant\\picAplant.csproj",
+        "projectUniqueName": "C:\\MYFOLDER\\RUPPIN\\ProjectGit\\serverGit\\Cgroup41_Server\\picAplant server 8.5.23\\picAplant\\picAplant.csproj",
         "projectName": "picAplant",
-        "projectPath": "C:\\MYFOLDER\\RUPPIN\\ProjectGit\\server\\picAplant server 8.5.23\\picAplant\\picAplant.csproj",
+        "projectPath": "C:\\MYFOLDER\\RUPPIN\\ProjectGit\\serverGit\\Cgroup41_Server\\picAplant server 8.5.23\\picAplant\\picAplant.csproj",
         "packagesPath": "C:\\Users\\gilad\\.nuget\\packages\\",
-        "outputPath": "C:\\MYFOLDER\\RUPPIN\\ProjectGit\\server\\picAplant server 8.5.23\\picAplant\\obj\\",
+        "outputPath": "C:\\MYFOLDER\\RUPPIN\\ProjectGit\\serverGit\\Cgroup41_Server\\picAplant server 8.5.23\\picAplant\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gilad\\AppData\\Roaming\\NuGet\\NuGet.Config",
