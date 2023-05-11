@@ -1,0 +1,375 @@
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant/picAplant/bin/Release/net6.0/appsettings.Development.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant/picAplant/bin/Release/net6.0/appsettings.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant/picAplant/bin/Release/net6.0/picAplant.exe
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant/picAplant/bin/Release/net6.0/picAplant.deps.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant/picAplant/bin/Release/net6.0/picAplant.runtimeconfig.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant/picAplant/bin/Release/net6.0/picAplant.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant/picAplant/bin/Release/net6.0/picAplant.pdb
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant/picAplant/bin/Release/net6.0/Microsoft.OpenApi.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant/picAplant/bin/Release/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant/picAplant/bin/Release/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant/picAplant/bin/Release/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant/picAplant/bin/Release/net6.0/System.Data.SqlClient.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant/picAplant/bin/Release/net6.0/runtimes/win-arm64/native/sni.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant/picAplant/bin/Release/net6.0/runtimes/win-x64/native/sni.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant/picAplant/bin/Release/net6.0/runtimes/win-x86/native/sni.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant/picAplant/bin/Release/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant/picAplant/bin/Release/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant/picAplant/obj/Release/net6.0/picAplant.csproj.AssemblyReference.cache
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant/picAplant/obj/Release/net6.0/picAplant.GeneratedMSBuildEditorConfig.editorconfig
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant/picAplant/obj/Release/net6.0/picAplant.AssemblyInfoInputs.cache
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant/picAplant/obj/Release/net6.0/picAplant.AssemblyInfo.cs
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant/picAplant/obj/Release/net6.0/picAplant.csproj.CoreCompileInputs.cache
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant/picAplant/obj/Release/net6.0/picAplant.MvcApplicationPartsAssemblyInfo.cs
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant/picAplant/obj/Release/net6.0/picAplant.MvcApplicationPartsAssemblyInfo.cache
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant/picAplant/obj/Release/net6.0/staticwebassets/msbuild.picAplant.Microsoft.AspNetCore.StaticWebAssets.props
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant/picAplant/obj/Release/net6.0/staticwebassets/msbuild.build.picAplant.props
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant/picAplant/obj/Release/net6.0/staticwebassets/msbuild.buildMultiTargeting.picAplant.props
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant/picAplant/obj/Release/net6.0/staticwebassets/msbuild.buildTransitive.picAplant.props
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant/picAplant/obj/Release/net6.0/staticwebassets.pack.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant/picAplant/obj/Release/net6.0/staticwebassets.build.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant/picAplant/obj/Release/net6.0/staticwebassets.development.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant/picAplant/obj/Release/net6.0/scopedcss/bundle/picAplant.styles.css
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant/picAplant/obj/Release/net6.0/picAplant.csproj.CopyComplete
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant/picAplant/obj/Release/net6.0/picAplant.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant/picAplant/obj/Release/net6.0/refint/picAplant.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant/picAplant/obj/Release/net6.0/picAplant.pdb
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant/picAplant/obj/Release/net6.0/picAplant.genruntimeconfig.cache
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant/picAplant/obj/Release/net6.0/ref/picAplant.dll
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant/picAplant/bin/Release/net6.0/appsettings.Development.json
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant/picAplant/bin/Release/net6.0/appsettings.json
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant/picAplant/bin/Release/net6.0/picAplant.exe
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant/picAplant/bin/Release/net6.0/picAplant.deps.json
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant/picAplant/bin/Release/net6.0/picAplant.runtimeconfig.json
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant/picAplant/bin/Release/net6.0/picAplant.dll
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant/picAplant/bin/Release/net6.0/picAplant.pdb
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant/picAplant/bin/Release/net6.0/Microsoft.OpenApi.dll
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant/picAplant/bin/Release/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant/picAplant/bin/Release/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant/picAplant/bin/Release/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant/picAplant/bin/Release/net6.0/System.Data.SqlClient.dll
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant/picAplant/bin/Release/net6.0/runtimes/win-arm64/native/sni.dll
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant/picAplant/bin/Release/net6.0/runtimes/win-x64/native/sni.dll
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant/picAplant/bin/Release/net6.0/runtimes/win-x86/native/sni.dll
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant/picAplant/bin/Release/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant/picAplant/bin/Release/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant/picAplant/obj/Release/net6.0/picAplant.csproj.AssemblyReference.cache
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant/picAplant/obj/Release/net6.0/picAplant.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant/picAplant/obj/Release/net6.0/picAplant.AssemblyInfoInputs.cache
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant/picAplant/obj/Release/net6.0/picAplant.AssemblyInfo.cs
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant/picAplant/obj/Release/net6.0/picAplant.csproj.CoreCompileInputs.cache
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant/picAplant/obj/Release/net6.0/picAplant.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant/picAplant/obj/Release/net6.0/picAplant.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant/picAplant/obj/Release/net6.0/staticwebassets/msbuild.picAplant.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant/picAplant/obj/Release/net6.0/staticwebassets/msbuild.build.picAplant.props
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant/picAplant/obj/Release/net6.0/staticwebassets/msbuild.buildMultiTargeting.picAplant.props
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant/picAplant/obj/Release/net6.0/staticwebassets/msbuild.buildTransitive.picAplant.props
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant/picAplant/obj/Release/net6.0/staticwebassets.pack.json
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant/picAplant/obj/Release/net6.0/staticwebassets.build.json
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant/picAplant/obj/Release/net6.0/staticwebassets.development.json
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant/picAplant/obj/Release/net6.0/scopedcss/bundle/picAplant.styles.css
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant/picAplant/obj/Release/net6.0/picAplant.csproj.CopyComplete
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant/picAplant/obj/Release/net6.0/picAplant.dll
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant/picAplant/obj/Release/net6.0/refint/picAplant.dll
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant/picAplant/obj/Release/net6.0/picAplant.pdb
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant/picAplant/obj/Release/net6.0/picAplant.genruntimeconfig.cache
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant/picAplant/obj/Release/net6.0/ref/picAplant.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Client_9_4_23/picAplant/picAplant/bin/Release/net6.0/appsettings.Development.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Client_9_4_23/picAplant/picAplant/bin/Release/net6.0/appsettings.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Client_9_4_23/picAplant/picAplant/bin/Release/net6.0/picAplant.exe
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Client_9_4_23/picAplant/picAplant/bin/Release/net6.0/picAplant.deps.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Client_9_4_23/picAplant/picAplant/bin/Release/net6.0/picAplant.runtimeconfig.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Client_9_4_23/picAplant/picAplant/bin/Release/net6.0/picAplant.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Client_9_4_23/picAplant/picAplant/bin/Release/net6.0/picAplant.pdb
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Client_9_4_23/picAplant/picAplant/bin/Release/net6.0/Microsoft.OpenApi.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Client_9_4_23/picAplant/picAplant/bin/Release/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Client_9_4_23/picAplant/picAplant/bin/Release/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Client_9_4_23/picAplant/picAplant/bin/Release/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Client_9_4_23/picAplant/picAplant/bin/Release/net6.0/System.Data.SqlClient.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Client_9_4_23/picAplant/picAplant/bin/Release/net6.0/runtimes/win-arm64/native/sni.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Client_9_4_23/picAplant/picAplant/bin/Release/net6.0/runtimes/win-x64/native/sni.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Client_9_4_23/picAplant/picAplant/bin/Release/net6.0/runtimes/win-x86/native/sni.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Client_9_4_23/picAplant/picAplant/bin/Release/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Client_9_4_23/picAplant/picAplant/bin/Release/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Client_9_4_23/picAplant/picAplant/obj/Release/net6.0/picAplant.csproj.AssemblyReference.cache
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Client_9_4_23/picAplant/picAplant/obj/Release/net6.0/picAplant.GeneratedMSBuildEditorConfig.editorconfig
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Client_9_4_23/picAplant/picAplant/obj/Release/net6.0/picAplant.AssemblyInfoInputs.cache
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Client_9_4_23/picAplant/picAplant/obj/Release/net6.0/picAplant.AssemblyInfo.cs
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Client_9_4_23/picAplant/picAplant/obj/Release/net6.0/picAplant.csproj.CoreCompileInputs.cache
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Client_9_4_23/picAplant/picAplant/obj/Release/net6.0/picAplant.MvcApplicationPartsAssemblyInfo.cs
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Client_9_4_23/picAplant/picAplant/obj/Release/net6.0/picAplant.MvcApplicationPartsAssemblyInfo.cache
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Client_9_4_23/picAplant/picAplant/obj/Release/net6.0/staticwebassets/msbuild.picAplant.Microsoft.AspNetCore.StaticWebAssets.props
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Client_9_4_23/picAplant/picAplant/obj/Release/net6.0/staticwebassets/msbuild.build.picAplant.props
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Client_9_4_23/picAplant/picAplant/obj/Release/net6.0/staticwebassets/msbuild.buildMultiTargeting.picAplant.props
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Client_9_4_23/picAplant/picAplant/obj/Release/net6.0/staticwebassets/msbuild.buildTransitive.picAplant.props
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Client_9_4_23/picAplant/picAplant/obj/Release/net6.0/staticwebassets.pack.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Client_9_4_23/picAplant/picAplant/obj/Release/net6.0/staticwebassets.build.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Client_9_4_23/picAplant/picAplant/obj/Release/net6.0/staticwebassets.development.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Client_9_4_23/picAplant/picAplant/obj/Release/net6.0/scopedcss/bundle/picAplant.styles.css
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Client_9_4_23/picAplant/picAplant/obj/Release/net6.0/picAplant.csproj.CopyComplete
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Client_9_4_23/picAplant/picAplant/obj/Release/net6.0/picAplant.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Client_9_4_23/picAplant/picAplant/obj/Release/net6.0/refint/picAplant.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Client_9_4_23/picAplant/picAplant/obj/Release/net6.0/picAplant.pdb
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Client_9_4_23/picAplant/picAplant/obj/Release/net6.0/picAplant.genruntimeconfig.cache
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Client_9_4_23/picAplant/picAplant/obj/Release/net6.0/ref/picAplant.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Server_9_4_23/picAplant/picAplant/bin/Release/net6.0/appsettings.Development.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Server_9_4_23/picAplant/picAplant/bin/Release/net6.0/appsettings.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Server_9_4_23/picAplant/picAplant/bin/Release/net6.0/picAplant.exe
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Server_9_4_23/picAplant/picAplant/bin/Release/net6.0/picAplant.deps.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Server_9_4_23/picAplant/picAplant/bin/Release/net6.0/picAplant.runtimeconfig.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Server_9_4_23/picAplant/picAplant/bin/Release/net6.0/picAplant.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Server_9_4_23/picAplant/picAplant/bin/Release/net6.0/picAplant.pdb
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Server_9_4_23/picAplant/picAplant/bin/Release/net6.0/Microsoft.OpenApi.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Server_9_4_23/picAplant/picAplant/bin/Release/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Server_9_4_23/picAplant/picAplant/bin/Release/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Server_9_4_23/picAplant/picAplant/bin/Release/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Server_9_4_23/picAplant/picAplant/bin/Release/net6.0/System.Data.SqlClient.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Server_9_4_23/picAplant/picAplant/bin/Release/net6.0/runtimes/win-arm64/native/sni.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Server_9_4_23/picAplant/picAplant/bin/Release/net6.0/runtimes/win-x64/native/sni.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Server_9_4_23/picAplant/picAplant/bin/Release/net6.0/runtimes/win-x86/native/sni.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Server_9_4_23/picAplant/picAplant/bin/Release/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Server_9_4_23/picAplant/picAplant/bin/Release/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Server_9_4_23/picAplant/picAplant/obj/Release/net6.0/picAplant.csproj.AssemblyReference.cache
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Server_9_4_23/picAplant/picAplant/obj/Release/net6.0/picAplant.GeneratedMSBuildEditorConfig.editorconfig
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Server_9_4_23/picAplant/picAplant/obj/Release/net6.0/picAplant.AssemblyInfoInputs.cache
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Server_9_4_23/picAplant/picAplant/obj/Release/net6.0/picAplant.AssemblyInfo.cs
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Server_9_4_23/picAplant/picAplant/obj/Release/net6.0/picAplant.csproj.CoreCompileInputs.cache
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Server_9_4_23/picAplant/picAplant/obj/Release/net6.0/picAplant.MvcApplicationPartsAssemblyInfo.cs
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Server_9_4_23/picAplant/picAplant/obj/Release/net6.0/picAplant.MvcApplicationPartsAssemblyInfo.cache
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Server_9_4_23/picAplant/picAplant/obj/Release/net6.0/staticwebassets/msbuild.picAplant.Microsoft.AspNetCore.StaticWebAssets.props
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Server_9_4_23/picAplant/picAplant/obj/Release/net6.0/staticwebassets/msbuild.build.picAplant.props
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Server_9_4_23/picAplant/picAplant/obj/Release/net6.0/staticwebassets/msbuild.buildMultiTargeting.picAplant.props
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Server_9_4_23/picAplant/picAplant/obj/Release/net6.0/staticwebassets/msbuild.buildTransitive.picAplant.props
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Server_9_4_23/picAplant/picAplant/obj/Release/net6.0/staticwebassets.pack.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Server_9_4_23/picAplant/picAplant/obj/Release/net6.0/staticwebassets.build.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Server_9_4_23/picAplant/picAplant/obj/Release/net6.0/staticwebassets.development.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Server_9_4_23/picAplant/picAplant/obj/Release/net6.0/scopedcss/bundle/picAplant.styles.css
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Server_9_4_23/picAplant/picAplant/obj/Release/net6.0/picAplant.csproj.CopyComplete
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Server_9_4_23/picAplant/picAplant/obj/Release/net6.0/picAplant.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Server_9_4_23/picAplant/picAplant/obj/Release/net6.0/refint/picAplant.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Server_9_4_23/picAplant/picAplant/obj/Release/net6.0/picAplant.pdb
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Server_9_4_23/picAplant/picAplant/obj/Release/net6.0/picAplant.genruntimeconfig.cache
+C:/MYFOLDER/RUPPIN/FinalProjectServer/Server_9_4_23/picAplant/picAplant/obj/Release/net6.0/ref/picAplant.dll
+C:/Users/guy/Desktop/picAplant server 11.4.23/picAplant/bin/Release/net6.0/appsettings.Development.json
+C:/Users/guy/Desktop/picAplant server 11.4.23/picAplant/bin/Release/net6.0/appsettings.json
+C:/Users/guy/Desktop/picAplant server 11.4.23/picAplant/bin/Release/net6.0/picAplant.exe
+C:/Users/guy/Desktop/picAplant server 11.4.23/picAplant/bin/Release/net6.0/picAplant.deps.json
+C:/Users/guy/Desktop/picAplant server 11.4.23/picAplant/bin/Release/net6.0/picAplant.runtimeconfig.json
+C:/Users/guy/Desktop/picAplant server 11.4.23/picAplant/bin/Release/net6.0/picAplant.dll
+C:/Users/guy/Desktop/picAplant server 11.4.23/picAplant/bin/Release/net6.0/picAplant.pdb
+C:/Users/guy/Desktop/picAplant server 11.4.23/picAplant/bin/Release/net6.0/Microsoft.OpenApi.dll
+C:/Users/guy/Desktop/picAplant server 11.4.23/picAplant/bin/Release/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/guy/Desktop/picAplant server 11.4.23/picAplant/bin/Release/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/guy/Desktop/picAplant server 11.4.23/picAplant/bin/Release/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/guy/Desktop/picAplant server 11.4.23/picAplant/bin/Release/net6.0/System.Data.SqlClient.dll
+C:/Users/guy/Desktop/picAplant server 11.4.23/picAplant/bin/Release/net6.0/runtimes/win-arm64/native/sni.dll
+C:/Users/guy/Desktop/picAplant server 11.4.23/picAplant/bin/Release/net6.0/runtimes/win-x64/native/sni.dll
+C:/Users/guy/Desktop/picAplant server 11.4.23/picAplant/bin/Release/net6.0/runtimes/win-x86/native/sni.dll
+C:/Users/guy/Desktop/picAplant server 11.4.23/picAplant/bin/Release/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/guy/Desktop/picAplant server 11.4.23/picAplant/bin/Release/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/guy/Desktop/picAplant server 11.4.23/picAplant/obj/Release/net6.0/picAplant.csproj.AssemblyReference.cache
+C:/Users/guy/Desktop/picAplant server 11.4.23/picAplant/obj/Release/net6.0/picAplant.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/guy/Desktop/picAplant server 11.4.23/picAplant/obj/Release/net6.0/picAplant.AssemblyInfoInputs.cache
+C:/Users/guy/Desktop/picAplant server 11.4.23/picAplant/obj/Release/net6.0/picAplant.AssemblyInfo.cs
+C:/Users/guy/Desktop/picAplant server 11.4.23/picAplant/obj/Release/net6.0/picAplant.csproj.CoreCompileInputs.cache
+C:/Users/guy/Desktop/picAplant server 11.4.23/picAplant/obj/Release/net6.0/picAplant.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/guy/Desktop/picAplant server 11.4.23/picAplant/obj/Release/net6.0/picAplant.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/guy/Desktop/picAplant server 11.4.23/picAplant/obj/Release/net6.0/staticwebassets.build.json
+C:/Users/guy/Desktop/picAplant server 11.4.23/picAplant/obj/Release/net6.0/staticwebassets.development.json
+C:/Users/guy/Desktop/picAplant server 11.4.23/picAplant/obj/Release/net6.0/scopedcss/bundle/picAplant.styles.css
+C:/Users/guy/Desktop/picAplant server 11.4.23/picAplant/obj/Release/net6.0/picAplant.csproj.CopyComplete
+C:/Users/guy/Desktop/picAplant server 11.4.23/picAplant/obj/Release/net6.0/picAplant.dll
+C:/Users/guy/Desktop/picAplant server 11.4.23/picAplant/obj/Release/net6.0/refint/picAplant.dll
+C:/Users/guy/Desktop/picAplant server 11.4.23/picAplant/obj/Release/net6.0/picAplant.pdb
+C:/Users/guy/Desktop/picAplant server 11.4.23/picAplant/obj/Release/net6.0/picAplant.genruntimeconfig.cache
+C:/Users/guy/Desktop/picAplant server 11.4.23/picAplant/obj/Release/net6.0/ref/picAplant.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 11.4.23/picAplant/bin/Release/net6.0/appsettings.Development.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 11.4.23/picAplant/bin/Release/net6.0/appsettings.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 11.4.23/picAplant/bin/Release/net6.0/picAplant.exe
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 11.4.23/picAplant/bin/Release/net6.0/picAplant.deps.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 11.4.23/picAplant/bin/Release/net6.0/picAplant.runtimeconfig.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 11.4.23/picAplant/bin/Release/net6.0/picAplant.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 11.4.23/picAplant/bin/Release/net6.0/picAplant.pdb
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 11.4.23/picAplant/bin/Release/net6.0/Microsoft.OpenApi.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 11.4.23/picAplant/bin/Release/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 11.4.23/picAplant/bin/Release/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 11.4.23/picAplant/bin/Release/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 11.4.23/picAplant/bin/Release/net6.0/System.Data.SqlClient.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 11.4.23/picAplant/bin/Release/net6.0/runtimes/win-arm64/native/sni.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 11.4.23/picAplant/bin/Release/net6.0/runtimes/win-x64/native/sni.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 11.4.23/picAplant/bin/Release/net6.0/runtimes/win-x86/native/sni.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 11.4.23/picAplant/bin/Release/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 11.4.23/picAplant/bin/Release/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 11.4.23/picAplant/obj/Release/net6.0/picAplant.csproj.AssemblyReference.cache
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 11.4.23/picAplant/obj/Release/net6.0/picAplant.GeneratedMSBuildEditorConfig.editorconfig
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 11.4.23/picAplant/obj/Release/net6.0/picAplant.AssemblyInfoInputs.cache
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 11.4.23/picAplant/obj/Release/net6.0/picAplant.AssemblyInfo.cs
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 11.4.23/picAplant/obj/Release/net6.0/picAplant.csproj.CoreCompileInputs.cache
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 11.4.23/picAplant/obj/Release/net6.0/picAplant.MvcApplicationPartsAssemblyInfo.cs
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 11.4.23/picAplant/obj/Release/net6.0/picAplant.MvcApplicationPartsAssemblyInfo.cache
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 11.4.23/picAplant/obj/Release/net6.0/staticwebassets/msbuild.picAplant.Microsoft.AspNetCore.StaticWebAssets.props
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 11.4.23/picAplant/obj/Release/net6.0/staticwebassets/msbuild.build.picAplant.props
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 11.4.23/picAplant/obj/Release/net6.0/staticwebassets/msbuild.buildMultiTargeting.picAplant.props
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 11.4.23/picAplant/obj/Release/net6.0/staticwebassets/msbuild.buildTransitive.picAplant.props
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 11.4.23/picAplant/obj/Release/net6.0/staticwebassets.pack.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 11.4.23/picAplant/obj/Release/net6.0/staticwebassets.build.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 11.4.23/picAplant/obj/Release/net6.0/staticwebassets.development.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 11.4.23/picAplant/obj/Release/net6.0/scopedcss/bundle/picAplant.styles.css
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 11.4.23/picAplant/obj/Release/net6.0/picAplant.csproj.CopyComplete
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 11.4.23/picAplant/obj/Release/net6.0/picAplant.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 11.4.23/picAplant/obj/Release/net6.0/refint/picAplant.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 11.4.23/picAplant/obj/Release/net6.0/picAplant.pdb
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 11.4.23/picAplant/obj/Release/net6.0/picAplant.genruntimeconfig.cache
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 11.4.23/picAplant/obj/Release/net6.0/ref/picAplant.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 13.4.23/picAplant/bin/Release/net6.0/appsettings.Development.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 13.4.23/picAplant/bin/Release/net6.0/appsettings.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 13.4.23/picAplant/bin/Release/net6.0/picAplant.exe
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 13.4.23/picAplant/bin/Release/net6.0/picAplant.deps.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 13.4.23/picAplant/bin/Release/net6.0/picAplant.runtimeconfig.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 13.4.23/picAplant/bin/Release/net6.0/picAplant.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 13.4.23/picAplant/bin/Release/net6.0/picAplant.pdb
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 13.4.23/picAplant/bin/Release/net6.0/Microsoft.OpenApi.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 13.4.23/picAplant/bin/Release/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 13.4.23/picAplant/bin/Release/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 13.4.23/picAplant/bin/Release/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 13.4.23/picAplant/bin/Release/net6.0/System.Data.SqlClient.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 13.4.23/picAplant/bin/Release/net6.0/runtimes/win-arm64/native/sni.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 13.4.23/picAplant/bin/Release/net6.0/runtimes/win-x64/native/sni.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 13.4.23/picAplant/bin/Release/net6.0/runtimes/win-x86/native/sni.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 13.4.23/picAplant/bin/Release/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 13.4.23/picAplant/bin/Release/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 13.4.23/picAplant/obj/Release/net6.0/picAplant.csproj.AssemblyReference.cache
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 13.4.23/picAplant/obj/Release/net6.0/picAplant.GeneratedMSBuildEditorConfig.editorconfig
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 13.4.23/picAplant/obj/Release/net6.0/picAplant.AssemblyInfoInputs.cache
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 13.4.23/picAplant/obj/Release/net6.0/picAplant.AssemblyInfo.cs
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 13.4.23/picAplant/obj/Release/net6.0/picAplant.csproj.CoreCompileInputs.cache
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 13.4.23/picAplant/obj/Release/net6.0/picAplant.MvcApplicationPartsAssemblyInfo.cs
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 13.4.23/picAplant/obj/Release/net6.0/picAplant.MvcApplicationPartsAssemblyInfo.cache
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 13.4.23/picAplant/obj/Release/net6.0/staticwebassets/msbuild.picAplant.Microsoft.AspNetCore.StaticWebAssets.props
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 13.4.23/picAplant/obj/Release/net6.0/staticwebassets/msbuild.build.picAplant.props
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 13.4.23/picAplant/obj/Release/net6.0/staticwebassets/msbuild.buildMultiTargeting.picAplant.props
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 13.4.23/picAplant/obj/Release/net6.0/staticwebassets/msbuild.buildTransitive.picAplant.props
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 13.4.23/picAplant/obj/Release/net6.0/staticwebassets.pack.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 13.4.23/picAplant/obj/Release/net6.0/staticwebassets.build.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 13.4.23/picAplant/obj/Release/net6.0/staticwebassets.development.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 13.4.23/picAplant/obj/Release/net6.0/scopedcss/bundle/picAplant.styles.css
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 13.4.23/picAplant/obj/Release/net6.0/picAplant.csproj.CopyComplete
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 13.4.23/picAplant/obj/Release/net6.0/picAplant.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 13.4.23/picAplant/obj/Release/net6.0/refint/picAplant.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 13.4.23/picAplant/obj/Release/net6.0/picAplant.pdb
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 13.4.23/picAplant/obj/Release/net6.0/picAplant.genruntimeconfig.cache
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 13.4.23/picAplant/obj/Release/net6.0/ref/picAplant.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 14.4.23/picAplant/bin/Release/net6.0/appsettings.Development.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 14.4.23/picAplant/bin/Release/net6.0/appsettings.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 14.4.23/picAplant/bin/Release/net6.0/picAplant.exe
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 14.4.23/picAplant/bin/Release/net6.0/picAplant.deps.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 14.4.23/picAplant/bin/Release/net6.0/picAplant.runtimeconfig.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 14.4.23/picAplant/bin/Release/net6.0/picAplant.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 14.4.23/picAplant/bin/Release/net6.0/picAplant.pdb
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 14.4.23/picAplant/bin/Release/net6.0/Microsoft.OpenApi.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 14.4.23/picAplant/bin/Release/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 14.4.23/picAplant/bin/Release/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 14.4.23/picAplant/bin/Release/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 14.4.23/picAplant/bin/Release/net6.0/System.Data.SqlClient.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 14.4.23/picAplant/bin/Release/net6.0/runtimes/win-arm64/native/sni.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 14.4.23/picAplant/bin/Release/net6.0/runtimes/win-x64/native/sni.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 14.4.23/picAplant/bin/Release/net6.0/runtimes/win-x86/native/sni.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 14.4.23/picAplant/bin/Release/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 14.4.23/picAplant/bin/Release/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 14.4.23/picAplant/obj/Release/net6.0/picAplant.csproj.AssemblyReference.cache
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 14.4.23/picAplant/obj/Release/net6.0/picAplant.GeneratedMSBuildEditorConfig.editorconfig
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 14.4.23/picAplant/obj/Release/net6.0/picAplant.AssemblyInfoInputs.cache
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 14.4.23/picAplant/obj/Release/net6.0/picAplant.AssemblyInfo.cs
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 14.4.23/picAplant/obj/Release/net6.0/picAplant.csproj.CoreCompileInputs.cache
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 14.4.23/picAplant/obj/Release/net6.0/picAplant.MvcApplicationPartsAssemblyInfo.cs
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 14.4.23/picAplant/obj/Release/net6.0/picAplant.MvcApplicationPartsAssemblyInfo.cache
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 14.4.23/picAplant/obj/Release/net6.0/staticwebassets/msbuild.picAplant.Microsoft.AspNetCore.StaticWebAssets.props
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 14.4.23/picAplant/obj/Release/net6.0/staticwebassets/msbuild.build.picAplant.props
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 14.4.23/picAplant/obj/Release/net6.0/staticwebassets/msbuild.buildMultiTargeting.picAplant.props
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 14.4.23/picAplant/obj/Release/net6.0/staticwebassets/msbuild.buildTransitive.picAplant.props
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 14.4.23/picAplant/obj/Release/net6.0/staticwebassets.pack.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 14.4.23/picAplant/obj/Release/net6.0/staticwebassets.build.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 14.4.23/picAplant/obj/Release/net6.0/staticwebassets.development.json
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 14.4.23/picAplant/obj/Release/net6.0/scopedcss/bundle/picAplant.styles.css
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 14.4.23/picAplant/obj/Release/net6.0/picAplant.csproj.CopyComplete
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 14.4.23/picAplant/obj/Release/net6.0/picAplant.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 14.4.23/picAplant/obj/Release/net6.0/refint/picAplant.dll
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 14.4.23/picAplant/obj/Release/net6.0/picAplant.pdb
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 14.4.23/picAplant/obj/Release/net6.0/picAplant.genruntimeconfig.cache
+C:/MYFOLDER/RUPPIN/FinalProjectServer/picAplant server 14.4.23/picAplant/obj/Release/net6.0/ref/picAplant.dll
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant server 15.4.23/picAplant/obj/Release/net6.0/picAplant.csproj.AssemblyReference.cache
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant server 15.4.23/picAplant/obj/Release/net6.0/picAplant.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant server 15.4.23/picAplant/obj/Release/net6.0/picAplant.AssemblyInfoInputs.cache
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant server 15.4.23/picAplant/obj/Release/net6.0/picAplant.AssemblyInfo.cs
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant server 15.4.23/picAplant/obj/Release/net6.0/picAplant.csproj.CoreCompileInputs.cache
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant server 15.4.23/picAplant/obj/Release/net6.0/picAplant.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant server 15.4.23/picAplant/obj/Release/net6.0/picAplant.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant server 15.4.23/picAplant/obj/Release/net6.0/picAplant.dll
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant server 15.4.23/picAplant/obj/Release/net6.0/refint/picAplant.dll
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant server 15.4.23/picAplant/obj/Release/net6.0/picAplant.pdb
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant server 15.4.23/picAplant/bin/Release/net6.0/appsettings.Development.json
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant server 15.4.23/picAplant/bin/Release/net6.0/appsettings.json
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant server 15.4.23/picAplant/bin/Release/net6.0/picAplant.exe
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant server 15.4.23/picAplant/bin/Release/net6.0/picAplant.deps.json
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant server 15.4.23/picAplant/bin/Release/net6.0/picAplant.runtimeconfig.json
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant server 15.4.23/picAplant/bin/Release/net6.0/picAplant.dll
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant server 15.4.23/picAplant/bin/Release/net6.0/picAplant.pdb
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant server 15.4.23/picAplant/bin/Release/net6.0/Microsoft.OpenApi.dll
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant server 15.4.23/picAplant/bin/Release/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant server 15.4.23/picAplant/bin/Release/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant server 15.4.23/picAplant/bin/Release/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant server 15.4.23/picAplant/bin/Release/net6.0/System.Data.SqlClient.dll
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant server 15.4.23/picAplant/bin/Release/net6.0/runtimes/win-arm64/native/sni.dll
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant server 15.4.23/picAplant/bin/Release/net6.0/runtimes/win-x64/native/sni.dll
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant server 15.4.23/picAplant/bin/Release/net6.0/runtimes/win-x86/native/sni.dll
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant server 15.4.23/picAplant/bin/Release/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant server 15.4.23/picAplant/bin/Release/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant server 15.4.23/picAplant/obj/Release/net6.0/staticwebassets/msbuild.picAplant.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant server 15.4.23/picAplant/obj/Release/net6.0/staticwebassets/msbuild.build.picAplant.props
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant server 15.4.23/picAplant/obj/Release/net6.0/staticwebassets/msbuild.buildMultiTargeting.picAplant.props
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant server 15.4.23/picAplant/obj/Release/net6.0/staticwebassets/msbuild.buildTransitive.picAplant.props
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant server 15.4.23/picAplant/obj/Release/net6.0/staticwebassets.pack.json
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant server 15.4.23/picAplant/obj/Release/net6.0/staticwebassets.build.json
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant server 15.4.23/picAplant/obj/Release/net6.0/staticwebassets.development.json
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant server 15.4.23/picAplant/obj/Release/net6.0/scopedcss/bundle/picAplant.styles.css
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant server 15.4.23/picAplant/obj/Release/net6.0/picAplant.csproj.CopyComplete
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant server 15.4.23/picAplant/obj/Release/net6.0/picAplant.genruntimeconfig.cache
+C:/Users/dorge/OneDrive/שולחן העבודה/picAplant server 15.4.23/picAplant/obj/Release/net6.0/ref/picAplant.dll
+/Users/guy/Desktop/picAplant server 16.4.23/picAplant/bin/Release/net6.0/appsettings.Development.json
+/Users/guy/Desktop/picAplant server 16.4.23/picAplant/bin/Release/net6.0/appsettings.json
+/Users/guy/Desktop/picAplant server 16.4.23/picAplant/bin/Release/net6.0/picAplant
+/Users/guy/Desktop/picAplant server 16.4.23/picAplant/bin/Release/net6.0/picAplant.deps.json
+/Users/guy/Desktop/picAplant server 16.4.23/picAplant/bin/Release/net6.0/picAplant.runtimeconfig.json
+/Users/guy/Desktop/picAplant server 16.4.23/picAplant/bin/Release/net6.0/picAplant.dll
+/Users/guy/Desktop/picAplant server 16.4.23/picAplant/bin/Release/net6.0/picAplant.pdb
+/Users/guy/Desktop/picAplant server 16.4.23/picAplant/bin/Release/net6.0/Microsoft.OpenApi.dll
+/Users/guy/Desktop/picAplant server 16.4.23/picAplant/bin/Release/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/guy/Desktop/picAplant server 16.4.23/picAplant/bin/Release/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/guy/Desktop/picAplant server 16.4.23/picAplant/bin/Release/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/guy/Desktop/picAplant server 16.4.23/picAplant/bin/Release/net6.0/System.Data.SqlClient.dll
+/Users/guy/Desktop/picAplant server 16.4.23/picAplant/bin/Release/net6.0/runtimes/win-arm64/native/sni.dll
+/Users/guy/Desktop/picAplant server 16.4.23/picAplant/bin/Release/net6.0/runtimes/win-x64/native/sni.dll
+/Users/guy/Desktop/picAplant server 16.4.23/picAplant/bin/Release/net6.0/runtimes/win-x86/native/sni.dll
+/Users/guy/Desktop/picAplant server 16.4.23/picAplant/bin/Release/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/guy/Desktop/picAplant server 16.4.23/picAplant/bin/Release/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/guy/Desktop/picAplant server 16.4.23/picAplant/obj/Release/net6.0/picAplant.csproj.AssemblyReference.cache
+/Users/guy/Desktop/picAplant server 16.4.23/picAplant/obj/Release/net6.0/picAplant.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guy/Desktop/picAplant server 16.4.23/picAplant/obj/Release/net6.0/picAplant.AssemblyInfoInputs.cache
+/Users/guy/Desktop/picAplant server 16.4.23/picAplant/obj/Release/net6.0/picAplant.AssemblyInfo.cs
+/Users/guy/Desktop/picAplant server 16.4.23/picAplant/obj/Release/net6.0/picAplant.csproj.CoreCompileInputs.cache
+/Users/guy/Desktop/picAplant server 16.4.23/picAplant/obj/Release/net6.0/picAplant.MvcApplicationPartsAssemblyInfo.cs
+/Users/guy/Desktop/picAplant server 16.4.23/picAplant/obj/Release/net6.0/picAplant.MvcApplicationPartsAssemblyInfo.cache
+/Users/guy/Desktop/picAplant server 16.4.23/picAplant/obj/Release/net6.0/staticwebassets/msbuild.picAplant.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/guy/Desktop/picAplant server 16.4.23/picAplant/obj/Release/net6.0/staticwebassets/msbuild.build.picAplant.props
+/Users/guy/Desktop/picAplant server 16.4.23/picAplant/obj/Release/net6.0/staticwebassets/msbuild.buildMultiTargeting.picAplant.props
+/Users/guy/Desktop/picAplant server 16.4.23/picAplant/obj/Release/net6.0/staticwebassets/msbuild.buildTransitive.picAplant.props
+/Users/guy/Desktop/picAplant server 16.4.23/picAplant/obj/Release/net6.0/staticwebassets.pack.json
+/Users/guy/Desktop/picAplant server 16.4.23/picAplant/obj/Release/net6.0/staticwebassets.build.json
+/Users/guy/Desktop/picAplant server 16.4.23/picAplant/obj/Release/net6.0/staticwebassets.development.json
+/Users/guy/Desktop/picAplant server 16.4.23/picAplant/obj/Release/net6.0/scopedcss/bundle/picAplant.styles.css
+/Users/guy/Desktop/picAplant server 16.4.23/picAplant/obj/Release/net6.0/picAplant.csproj.CopyComplete
+/Users/guy/Desktop/picAplant server 16.4.23/picAplant/obj/Release/net6.0/picAplant.dll
+/Users/guy/Desktop/picAplant server 16.4.23/picAplant/obj/Release/net6.0/refint/picAplant.dll
+/Users/guy/Desktop/picAplant server 16.4.23/picAplant/obj/Release/net6.0/picAplant.pdb
+/Users/guy/Desktop/picAplant server 16.4.23/picAplant/obj/Release/net6.0/picAplant.genruntimeconfig.cache
+/Users/guy/Desktop/picAplant server 16.4.23/picAplant/obj/Release/net6.0/ref/picAplant.dll
